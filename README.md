@@ -4,3 +4,5 @@ Painting Board made with Vanilla JavaScript
 <img src="./clone-paint/paint-1.png">
 <img src="./clone-paint/paint-2.png">
 <img src="./clone-paint/paint-3.png">
+<img src="./clone-paint/paint-4.png">
+<img src="./clone-paint/paint-5.png">
